@@ -11,7 +11,7 @@ link to site - [Onfire Media](http://www.onfiremedia.co.uk)
 
 ### Sections
 
-* heaader
+* header
 * what we do
 * who we are
 * projects
